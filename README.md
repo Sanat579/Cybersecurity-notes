@@ -2,8 +2,6 @@
 
 ---
 
-# Cybersecurity Notes
-
 Welcome to my Cybersecurity Notes repository!  
 This repository contains my notes, exercises, and resources while I am learning and practicing cybersecurity.
 
