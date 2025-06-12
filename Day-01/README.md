@@ -130,16 +130,6 @@ Cybersecurity professionals:
 
 ---
 
-## 📚 Coming Up Next
-
-Stay tuned for **Day-02: Networking Basics for Cybersecurity**, where we’ll cover:
-- IP addresses
-- TCP/IP model
-- Common ports
-- Firewalls
-
----
-
 ## 🙌 Want to Contribute?
 
 Feel free to:
