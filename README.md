@@ -10,7 +10,7 @@ This repository contains my notes, exercises, and resources while I am learning 
 ## 📅 Contents
 
 - [Day 01 - Introduction to Cybersecurity](./Day-01/README.md)
-- Day 02 - (To be added)
+- Day 02 - Installation of virtual box and kali linux
 - Day 03 - (To be added)
 
 ---
