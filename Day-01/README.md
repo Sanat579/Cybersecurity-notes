@@ -1,9 +1,4 @@
-# 🛡️ Cybersecurity Notes
 
-Welcome to the **Cybersecurity Notes** repository!  
-This repo provides beginner-friendly (L1) notes for anyone starting their journey into the world of cybersecurity. The content is structured day-by-day to help you build knowledge gradually.
-
----
 
 ## 📅 Day-01: Introduction to Cybersecurity (L1)
 
